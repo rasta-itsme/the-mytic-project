@@ -1,6 +1,8 @@
 Link do sklepu Bruna
 https://brunomars.warnerartists.net/eu/?ref=https%3A%2F%2Fwww.brunomars.com%2F
 
+color: #ffd60a;
+
 
 Bruno Mars, właśc. Peter Gene Hernandez
 (ur. 8 października 1985 w Honolulu)
