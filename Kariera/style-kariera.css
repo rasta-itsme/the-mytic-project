@@ -1,0 +1,63 @@
+*{
+    background-color: black;
+    color: #c9a960;
+    font-size: 20px;
+    font-family: 'Chivo', sans-serif;
+
+}
+
+.nagłówek{
+    font-size: 60px;
+    margin-top: -10px;
+    font-family: 'Bowlby One', sans-serif;
+    text-align: center;
+}
+
+.pierwsza , .druga , .trzecia , .czwarta{
+    font-size: 18px;
+    text-align: center;
+}
+
+.pierwsza{
+    margin-top: -60px;
+}
+
+.druga{
+    text-align: left;
+    max-width: 230px;
+    margin-top: 8px;
+    margin-left: 210px;
+}
+
+.trzecia{
+    max-width: 600px;
+    margin-left: 460px;
+    margin-top: -456px;
+}
+
+.czwarta{
+    max-width: 274px;
+    margin-left: 1105px;
+    margin-top: -449px;
+    text-align: right;
+}
+
+.płyta{
+    margin-top: -80px;
+    position: absolute;
+    margin-left: 410px;
+    opacity: 0.28;
+    max-width: 700px;
+}
+
+footer{
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        color: white;
+        text-align: center;
+        font-size: 18px;
+        font-family: 'Bowlby One', sans-serif;
+
+}
