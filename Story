@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Bowlby+One&family=Lexend&family=Lilita+One&display=swap');
+font-family: 'Bowlby One', sans-serif;
+
+
 Link do sklepu Bruna
 https://brunomars.warnerartists.net/eu/?ref=https%3A%2F%2Fwww.brunomars.com%2F
 
