@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+}
+
+.Nagłówek{
+    text-align: center;
+    font-family: 'Bowlby One', sans-serif;
+    color: darkgoldenrod;
+    font-size: 30px;
+}
+
+img{
+    max-width: 400px;
+    padding: 10px;
+    grid: 10cm;
+    border-radius: 20px;
+    transition: transform .2s;
+    max-width: 280px;
+}
+
+.kontener1 ,.kontener2 ,.kontener3 ,.kontener4 ,.kontener5 ,.kontener6 {
+    grid: 10cm;
+    transition: transform .2s;
+}
+
+.kontener1  :hover {
+    -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+}
+
+
+.kontener2  :hover {
+    -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+}
+
+.kontener3  :hover {
+    -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+}
+
+.kontener4  :hover {
+    -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+}
+
+.kontener5  :hover {
+    -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+}
+
+.kontener6  :hover {
+    -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+}
+
+
+.kontener{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.druga,.piąta{
+    padding-left: 15px;
+    padding-right: 15px;
+}
