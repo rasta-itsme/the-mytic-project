@@ -1,0 +1,54 @@
+body {
+    background-color: #23231A;
+    width: 1500px;
+    margin: 0 auto 0 auto;
+}
+
+header {
+    background-color: red;
+    height: 70px;
+}
+
+/* nav */
+.navoption {
+    margin-left: 15px;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+#navfirst {
+    margin-left: -35px;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+nav {
+    color: white;
+    height: 30px;
+    line-height: 15px;
+    text-align: center;
+    margin-bottom: 15px;
+
+}
+nav ul li {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+main {
+    height: 400px;
+    background-color: red;
+    margin-bottom: 15px;
+}
+#team {
+    background-color: red;
+    height: 300px;
+    margin-bottom: 15px;
+}
+footer {
+    height: 260px;
+    background-color: red;
+}
